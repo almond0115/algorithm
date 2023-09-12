@@ -13,10 +13,22 @@
 - `improve`: 새로운 성공 풀이를 추가한 문제
 - `docs`: readme 등 문서 수정
 
-## 풀이 정보
-## [BackJoon](https://www.acmicpc.net)
-* [일곱 난쟁이 (2309)](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/README.md)
+***
+<!-- ### [BackJoon](https://www.acmicpc.net)
+##### [일곱 난쟁이 (2309)](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/README.md)
 
 *** 
-## [Programmers]()
-* [예시 링크]()
+### [Programmers]()
+##### [예시 링크]() -->
+
+## 문제 풀이 내용 정리
+
+**문제 풀이 내용 WiKi를 통해 정리** 
+
+<!-- ### 📁 [HackerRank](https://github.com/eeeesong/Algorithm/wiki/📁-HackerRank) -->
+
+<!-- ### 📁 [LeetCode](https://github.com/eeeesong/Algorithm/wiki/📁-LeetCode) -->
+
+### 📁 [백준](https://github.com/eeeesong/Algorithm/wiki/📁-백준)
+
+### 📁 [프로그래머스](https://github.com/eeeesong/Algorithm/wiki/📁-프로그래머스)
