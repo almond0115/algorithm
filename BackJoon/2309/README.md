@@ -14,7 +14,7 @@
 *** 
 ### 풀이 코드
 - [종현](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/a.cpp)
-- [영준]()
+- [영준](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/b.cpp)
 - [기타 참고 소스]()
 ***
 #### 참고 링크
