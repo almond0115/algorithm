@@ -32,3 +32,11 @@
 ### 📁 [백준](https://github.com/almond0115/algorithm/wiki/📁-백준)
 
 ### 📁 [프로그래머스](https://github.com/almond0115/algorithm/wiki/📁-프로그래머스)
+
+***
+
+## 자주 사용하는 코드
+
+### 💡 [C++](https://github.com/almond0115/algorithm/blob/main/CodeLibrary/C++/README.md)
+
+### 💡 [Python](https://github.com/almond0115/algorithm/blob/main/CodeLibrary/Python/README.md)
