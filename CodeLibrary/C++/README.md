@@ -3,4 +3,4 @@
 ***
 ## 📝 주요 알고리즘
 
-* [재귀함수로 만드는 순열](https://github.com/almond0115/algorithm/blob/main/CodeLibrary/C++/recursive_permutation.cpp)
+* [재귀함수로 만드는 순열](https://github.com/almond0115/algorithm/blob/main/CodeLibrary/C++/recursive_permutation.md)
