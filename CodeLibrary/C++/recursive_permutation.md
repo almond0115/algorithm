@@ -1,4 +1,4 @@
-## 재귀함수로 만드는 수열
+## 재귀함수로 만드는 순열
 ***
 ```c++
 #include <bits/stdc++.h>
@@ -33,7 +33,7 @@ int main(){
     return 0;
 }
 ```
-> makePermutations() 함수 도식화
+> 재귀함수로 만든 순열 도식화
 
 ![permutation_0](https://github.com/almond0115/algorithm/assets/77084379/73754e68-ef8f-4817-9f2f-71b3fa77fb3b)
 
