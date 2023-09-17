@@ -15,8 +15,13 @@
 
 ## 🤙🏻 PR 규칙 및 Commit Message 규칙
 
-#### [Keyword]: {출처} {난이도} {제목}
-**ex) `[solve] 백준 silver 4 숫자 카드2`**
+### Pull Request
+#### [Keyword] {이름} {출처} {난이도} {제목}
+**ex) `[SOLVE] 정종현 백준 silver 4 숫자 카드 2`**
+
+### Commit Message
+#### [Keyword] {출처} {난이도} {제목}
+**ex) `[SOLVE] 백준 silver 4 숫자 카드 2`**
 
 - `SOLVE`: 풀이에 성공한 새 문제 추가
 - `FAIL`: 풀이에 실패한 새 문제 추가
@@ -24,12 +29,6 @@
 - `DOCS`: README.md 등 문서 수정
 
 ***
-<!-- ### [BackJoon](https://www.acmicpc.net)
-##### [일곱 난쟁이 (2309)](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/README.md)
-
-*** 
-### [Programmers]()
-##### [예시 링크]() -->
 
 ## 📁 풀이 정리
 
