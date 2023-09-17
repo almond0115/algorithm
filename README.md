@@ -15,14 +15,15 @@
 
 ## 🤙🏻 PR 규칙 및 Commit Message 규칙
 
-### Pull Request
-#### [Keyword] {이름} {출처} {난이도} {제목}
+*Pull Request*
+* [Keyword] {이름} {출처} {난이도} {제목} <br>
 **ex) `[SOLVE] 정종현 백준 silver 4 숫자 카드 2`**
 
-### Commit Message
-#### [Keyword] {출처} {난이도} {제목}
+*Commit Message*
+* [Keyword] {출처} {난이도} {제목} <br>
 **ex) `[SOLVE] 백준 silver 4 숫자 카드 2`**
 
+*Keyword*
 - `SOLVE`: 풀이에 성공한 새 문제 추가
 - `FAIL`: 풀이에 실패한 새 문제 추가
 - `IMPROVE`: 새로운 성공 풀이를 추가한 문제
