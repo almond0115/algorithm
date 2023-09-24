@@ -11,3 +11,4 @@
 
 * [메모리와 포인터](https://github.com/almond0115/algorithm/blob/main/CodeLibrary/C++/memory&pointer.md)
 
+* [중복된 요소 제거하는 방법과 unique()](https://github.com/almond0115/algorithm/blob/main/CodeLibrary/C++/deduplication.md)
