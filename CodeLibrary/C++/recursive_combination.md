@@ -1,5 +1,5 @@
 ## 재귀함수으로 만드는 조합
-***
+
 ```c++
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,5 +1,5 @@
 ## 재귀함수로 만드는 순열
-***
+
 ```c++
 #include <bits/stdc++.h>
 using namespace std;
