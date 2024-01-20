@@ -12,10 +12,23 @@
 일곱 난쟁이의 키를 오름차순으로 출력한다. 일곱 난쟁이를 찾을 수 없는 경우는 없다.
 
 *** 
+
 ### 풀이 코드
-- [종현](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/a.cpp)
-- [영준](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/b.cpp)
-- [기타 참고 소스]()
+
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/jjh.cpp)
+
+- [@ChoiYungJn](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/cyj.cpp)
+
+- [모범 답안 (Permutation)](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/solution_1.cpp)
+
+- [모범 답안 (Combination)](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/solution_2.cpp)
+
+- [모범 답안 (Recursive Permutation)](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/solution_3.cpp)
+
 ***
-#### 참고 링크
-* https://www.codestates.com/blog/content/데브옵스-이해하기
+
+### 참고 링크
+
+* [sort() 함수 사용법](https://almond0115.tistory.com/entry/sort-함수-사용법)
+
+* [C++에서 시간 초과 문제](https://almond0115.tistory.com/entry/코테에서-C-시간-초과-문제를-개선하는-3가지-방법)
