@@ -19,11 +19,13 @@
 
 - [@ChoiYungJn](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/cyj.cpp)
 
-- [모범 답안 (Permutation)](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/solution_1.cpp)
+### 모범 답안
 
-- [모범 답안 (Combination)](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/solution_2.cpp)
+- [Permutation](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/solution_1.cpp)
 
-- [모범 답안 (Recursive Permutation)](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/solution_3.cpp)
+- [Combination](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/solution_2.cpp)
+
+- [Recursive Permutation](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/solution_3.cpp)
 
 ***
 
