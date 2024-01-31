@@ -7,11 +7,16 @@
 ## 출력
 단어에 포함되어 있는 a의 개수, b의 개수, …, z의 개수를 공백으로 구분해서 출력한다.
 
-*** 
+***
+
 ### 풀이 코드
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/11808/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/10808/jjh.cpp)
+
+### 풀이 개념
+
+- [ASCII Code](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/10808/solution_1.cpp)
 
 ***
 
-#### 참고 링크
-* * [sort() 함수 사용법](https://almond0115.tistory.com/entry/sort-함수-사용법)
+### 참고 링크
+* [아스키 코드에서 외워야 할 2가지 코드](https://almond0115.tistory.com/entry/아스키-코드에서-외워야-할-2가지-코드)

@@ -19,7 +19,7 @@
 
 - [@ChoiYungJn](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/cyj.cpp)
 
-### 모범 답안
+### 풀이 개념
 
 - [Permutation](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/solution_1.cpp)
 
