@@ -6,7 +6,6 @@ int start, finish;
 int e_st, e_fin;
 int n, ret;
 
-// typedef pair<int, int> tm;
 vector<pair<int, int>> v;
 
 int main(){
@@ -20,7 +19,7 @@ int main(){
         if (e_fin < finish) e_fin = finish;
     }
     
-
+    // 문제에서 시간 범위 조건(<=100) 을 확인하지 못함
     int num = e_fin - e_st + 1;
     int sum[num];
     for(int i=0  ; i<num ; i++) {
@@ -39,8 +38,6 @@ int main(){
     for(int i=0 ; i<e_fin ; i++) {
         cout << sum[i] << " ";
     }
-    
-    return 0;
 
     for (int i=0 ; i<e_fin ; i++) {
         if(sum[i] == 1) {
