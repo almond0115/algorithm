@@ -47,6 +47,6 @@
 
 ## 💡 자주 사용하는 코드
 
-* [C++](https://github.com/almond0115/algorithm/blob/main/CodeLibrary/C++/README.md)
+* [C++](https://github.com/almond0115/algorithm/blob/main/library/C++/README.md)
 
-* [Python](https://github.com/almond0115/algorithm/blob/main/CodeLibrary/Python/README.md)
+* [Python](https://github.com/almond0115/algorithm/blob/main/library/Python/README.md)
