@@ -21,7 +21,7 @@ ROT13은 알파벳 대문자와 소문자에만 적용할 수 있다. 알파벳�
 
 ### 풀이 개념
 
-- [String Translation](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/11655/solution_1.cpp)
+- [getline() Input](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/11655/solution_1.cpp)
 
 ***
 
