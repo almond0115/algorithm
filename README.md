@@ -39,14 +39,14 @@
 
 <!-- ### 📁 [LeetCode](https://github.com/eeeesong/Algorithm/wiki/📁-LeetCode) -->
 
-* [백준](https://github.com/almond0115/algorithm/wiki/📁-백준)
+* [백준](https://github.com/viaunixue/algorithm-study/wiki/📁-백준)
 
-* [프로그래머스](https://github.com/almond0115/algorithm/wiki/📁-프로그래머스)
+* [프로그래머스](https://github.com/viaunixue/algorithm-study/wiki/📁-프로그래머스)
 
 ***
 
 ## 💡 자주 사용하는 코드
 
-* [C++](https://github.com/almond0115/algorithm/blob/main/library/C++/README.md)
+* [C++](https://github.com/viaunixue/algorithm-study/tree/main/library/c%2B%2B)
 
-* [Python](https://github.com/almond0115/algorithm/blob/main/library/Python/README.md)
+* [Python](https://github.com/viaunixue/algorithm-study/tree/main/library/python)

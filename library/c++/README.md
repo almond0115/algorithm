@@ -29,7 +29,7 @@
 
 * [C++에서 시간 초과 문제](https://almond0115.tistory.com/entry/코테에서-C-시간-초과-문제를-개선하는-3가지-방법)
 
-
+* [문자열 형식의 숫자 다루기](https://almond0115.tistory.com/entry/isdigit-stoi-함수-활용법)
 
 #### 자주 사용하는 명령어
 
