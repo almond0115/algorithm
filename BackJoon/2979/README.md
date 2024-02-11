@@ -23,12 +23,12 @@ A, B, C가 주어지고, 상근이의 트럭이 주차장에 주차된 시간이
 
 - [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2979/jjh.cpp)
 
-### 풀이 개념
+### 모범 답안
 
 - [Counting Array](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2979/solution_1.cpp)
 
 ***
 
-### 참고 링크
+### 참고 자료
 
 * [배열 선언 시 정말 상수 크기만을 지정해야 할까](https://almond0115.tistory.com/entry/C에서-배열-선언-시-정말-상수-크기만을-지정해야-할까)

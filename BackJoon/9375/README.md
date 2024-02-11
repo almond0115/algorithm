@@ -15,7 +15,7 @@
 
 ***
 
-### 내 풀이 코드
+### 풀이 코드
 
 - [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/9375/jjh.cpp)
 

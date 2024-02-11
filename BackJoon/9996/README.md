@@ -31,13 +31,13 @@
 
 - [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/9996/jjh.cpp)
 
-### 풀이 개념
+### 모범 답안
 
 - [Exception 처리](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/9996/solution_1.cpp)
 
 ***
 
-### 참고 링크
+### 참고 자료
 
 * [string값 split 하는 3가지 방법](https://almond0115.tistory.com/entry/C에서-문자열-자르기-3가지-방법)
 

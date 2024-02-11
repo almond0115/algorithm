@@ -17,12 +17,12 @@ level, noon은 팰린드롬이고, baekjoon, online, judge는 팰린드롬이 �
 
 - [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/10988/jjh.cpp)
 
-### 풀이 개념
+### 모범 답안
 
 - [reverse()](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/10988/solution_1.cpp)
 
 ***
 
-### 참고 링크
+### 참고 자료
 
 * [reverse 함수 사용법](https://almond0115.tistory.com/entry/C에서-reverse-함수-사용법)

@@ -23,12 +23,12 @@
 
 - [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/1620/jjh.cpp)
 
-### 풀이 개념
+### 모범 답안
 
-- [getline() Input](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/1620/solution_1.cpp)
+- [String to Int](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/1620/solution_1.cpp)
 
 ***
 
-### 참고 링크
+### 참고 자료
 
 * [문자열 형식의 숫자 다루기](https://almond0115.tistory.com/entry/isdigit-stoi-함수-활용법)

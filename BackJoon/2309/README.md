@@ -19,7 +19,7 @@
 
 - [@ChoiYungJn](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/cyj.cpp)
 
-### 풀이 개념
+### 모범 답안
 
 - [Permutation](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2309/solution_1.cpp)
 
@@ -29,7 +29,7 @@
 
 ***
 
-### 참고 링크
+### 참고 자료
 
 * [sort() 함수 사용법](https://almond0115.tistory.com/entry/sort-함수-사용법)
 

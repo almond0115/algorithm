@@ -46,12 +46,12 @@ K는 1과 N 사이의 정수이다.
 
 * [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2559/jjh.cpp)
 
-### 풀이 개념
+### 모범 답안
 
 * [Prefix Sum](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2559/solution_1.cpp)
 
 ---
 
-### 참고 링크
+### 참고 자료
 
 * [누적합 구하기](https://almond0115.tistory.com/entry/C에서-누적합-구하기)

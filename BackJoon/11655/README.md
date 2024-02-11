@@ -19,12 +19,12 @@ ROT13은 알파벳 대문자와 소문자에만 적용할 수 있다. 알파벳�
 
 - [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/11655/jjh.cpp)
 
-### 풀이 개념
+### 모범 답안
 
 - [getline() Input](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/11655/solution_1.cpp)
 
 ***
 
-### 참고 링크
+### 참고 자료
 
 * [C++에서 입력과 출력](https://almond0115.tistory.com/entry/C에서-입력과-출력)
