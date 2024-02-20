@@ -31,6 +31,8 @@
 
 * [문자열 형식의 숫자 다루기](https://almond0115.tistory.com/entry/isdigit-stoi-함수-활용법)
 
+* [C++에서 스택과 큐 그리고 덱](https://almond0115.tistory.com/entry/C에서-스택과-큐)
+
 #### 자주 사용하는 명령어
 
 ```
