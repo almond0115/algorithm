@@ -29,4 +29,4 @@
 
 ### 참고 자료
 
-* [string값 split 하는 3가지 방법](https://almond0115.tistory.com/entry/재귀함수로-만드는-조합과-순열)
+* [재귀함수로 만드는 조합과 순열](https://almond0115.tistory.com/entry/재귀함수로-만드는-조합과-순열)
