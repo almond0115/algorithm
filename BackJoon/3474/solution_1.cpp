@@ -1,9 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
-typedef unsigned long long ll;
 
-int t, cnt;
-ll n;
+int t, n;
 
 int main() {
     ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
@@ -11,18 +9,23 @@ int main() {
     cin >> t;
     int ret[t];
     for(int i=0 ; i<t ; i++){
-        // 1 <= n <= 10억
         cin >> n;
-        for(int j=5 ; j<n ; j*=5){
-            cnt += n/j;
+        int cnt2 = 0, cnt5 = 0;
+        for(int j=5 ; j<=n ; j*=5){
+            cnt5 += n/j;
         }
-        ret[i] = cnt;
-        cnt = 0;
+
+        for(int j=2 ; j<=n ; j*=2){
+            cnt2 += n/j;
+        }
+
+        ret[i] = min(cnt5, cnt2);
     }
 
     for(int i : ret){
         cout << i << '\n';
     }
+
 
     return 0;
 }
