@@ -31,6 +31,8 @@ int main() {
         // string -> int
         if(score1 > score2) go(sum1, t);
         else if(score2 > score1) go(sum2, t);
+
+        // 로직 순서 유의 (score1, score2 값 비교 후 증가 처리)
         p == 1 ? score1++ : score2++;
         prev = t;
     }
