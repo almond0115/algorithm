@@ -33,4 +33,4 @@ A = [9, 5, 4, 8]인 경우에는 NGE(1) = -1, NGE(2) = 8, NGE(3) = 8, NGE(4) = -
 
 ### 참고 자료
 
-* [C에서-스택과-큐](https://almond0115.tistory.com/entry/)
+* [C에서 스택과 큐](https://almond0115.tistory.com/entry/C에서-스택과-큐)
