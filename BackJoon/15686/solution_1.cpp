@@ -3,7 +3,7 @@ using namespace std;
 
 int n, m;
 int result = 987654321;                 // 0 으로 초기화 하면 최소값 찾는데 문제가 생길 수 있음
-int _map[54][54];                        // 크기 n x n 도시 
+int _map[54][54];                       // 크기 n x n 도시 
 vector<pair<int, int>> chicken, house;  // 도시에 치킨집과 집의 좌표 값
 vector<vector<int>> chickenList;        // 치킨집 좌표 인덱스 
 
