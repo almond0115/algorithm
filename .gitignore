@@ -212,3 +212,7 @@ pyrightconfig.json
 **/.DS_Store
 **/._.DS_Store
 # End of https://www.toptal.com/developers/gitignore/api/c++,python
+
+# Coding Test
+**/coding-test
+
