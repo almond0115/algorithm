@@ -18,7 +18,7 @@ array는 길이 1 이상인 배열입니다.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/programmers/12910/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/Algorithm-CodingTest/blob/main/programmers/12910/jjh.py)
 
 ***
 
