@@ -12,7 +12,7 @@ num은 int 범위의 정수입니다.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/Algorithm-CodingTest/blob/main/programmers/12937/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/12937/jjh.py)
 
 ***
 
