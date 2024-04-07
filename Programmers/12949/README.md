@@ -16,8 +16,7 @@
 
 ### 모범 답안
 
-- [2-D List initialization](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/12949/solution_1.cpp)
-
+- [2-D List initialization](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/12949/solution_1.py)
 
 ### TIL
 
