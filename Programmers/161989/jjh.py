@@ -1,4 +1,4 @@
-def solution(n, m, section):
+def solution_1(n, m, section):
     answer = 1
     # 롤러로 칠하는 경계 
     roller_end = section[0] + m - 1
@@ -11,3 +11,4 @@ def solution(n, m, section):
             answer += 1
 
     return answer
+
