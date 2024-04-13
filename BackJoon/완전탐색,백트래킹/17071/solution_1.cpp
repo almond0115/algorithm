@@ -5,7 +5,7 @@ const int MAX = 500000;
 int n, k, ok, turn = 1;
 
 // 동생 찾는 최단 시간을 홀,짝으로 구분하여 방문 처리
-// why? 시간 복잡도 최소화
+// why? 공간 복잡도 최소화
 int visited[2][MAX+4];
 
 int  main(){
@@ -31,6 +31,7 @@ int  main(){
         for(int i=0 ; i<qSize ; i++){
             int now = q.front(); q.pop();
             for(int next : {now+1, now-1, now*2}){
+                // overflow, 방문 여부 체크
                 if(next < 0 || next > MAX || visited[turn % 2][next]) continue;
                 visited[turn % 2][next] = visited[(turn + 1) % 2][now] + 1;
                 if(next == k){
