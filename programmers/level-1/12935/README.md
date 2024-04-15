@@ -17,7 +17,3 @@ arr은 길이 1 이상인 배열입니다.
 ### 풀이 코드
 
 - [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/12935/jjh.py)
-
-### TIL
-
-* [](https://almond0115.tistory.com/entry/)

@@ -24,4 +24,4 @@ n은 1 이상, 25이하인 자연수입니다.
 
 ### TIL
 
-* [](https://almond0115.tistory.com/entry/)
+* [시저 암호, 신고 결과 받기, 개인정보 수집 유효기간](https://almond0115.tistory.com/entry/programmers-시저-암호-신고-결과-받기-개인정보-수집-유효기간)
