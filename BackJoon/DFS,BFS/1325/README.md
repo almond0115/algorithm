@@ -24,11 +24,11 @@ N은 10,000보다 작거나 같은 자연수, M은 100,000보다 작거나 같�
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/1325/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/1325/jjh.cpp)
 
 ### 모범 답안
 
-- [2D Vector & DFS](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/1325/solution_1.cpp)
+- [2D Vector & DFS](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/1325/solution_1.cpp)
 
 ***
 

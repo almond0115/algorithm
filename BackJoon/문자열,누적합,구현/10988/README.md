@@ -15,11 +15,11 @@ level, noon은 팰린드롬이고, baekjoon, online, judge는 팰린드롬이 �
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/10988/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/문자열%2C누적합%2C구현/10988/jjh.cpp)
 
 ### 모범 답안
 
-- [reverse()](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/10988/solution_1.cpp)
+- [reverse()](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/문자열%2C누적합%2C구현/10988/solution_1.cpp)
 
 ***
 

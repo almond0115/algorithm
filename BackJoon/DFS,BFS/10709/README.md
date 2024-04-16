@@ -39,11 +39,11 @@ W 개의 문자 중 j번째 문자 (1 ≦ j ≦ W) 는, 구역 (i, j) 에 지금
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/10709/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/10709/jjh.cpp)
 
 ### 모범 답안
 
-- [Simulation & Increment Operator](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/10709/solution_1.cpp)
+- [Simulation & Increment Operator](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/10709/solution_1.cpp)
 
 ***
 

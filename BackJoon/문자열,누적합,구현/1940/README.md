@@ -19,11 +19,11 @@
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/1940/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/문자열%2C누적합%2C구현/1940/jjh.cpp)
 
 ### 모범 답안
 
-- [Combination & Time Complexity](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/1940/solution_1.cpp)
+- [Combination & Time Complexity](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/문자열%2C누적합%2C구현/1940/solution_1.cpp)
 
 ***
 

@@ -57,11 +57,11 @@
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/15686/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/완전탐색%2C백트래킹/15686/jjh.cpp)
 
 ### 모범 답안
 
-- [Combination + Recursion & 2D Vector](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/15686/solution_1.cpp)
+- [Combination + Recursion & 2D Vector](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/완전탐색%2C백트래킹/15686/solution_1.cpp)
 
 ***
 

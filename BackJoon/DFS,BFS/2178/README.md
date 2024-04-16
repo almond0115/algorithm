@@ -31,11 +31,11 @@ N×M크기의 배열로 표현되는 미로가 있다.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2178/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/2178/jjh.cpp)
 
 ### 모범 답안
 
-- [BFS](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2178/solution_1.cpp)
+- [BFS](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/2178/solution_1.cpp)
 
 ***
 

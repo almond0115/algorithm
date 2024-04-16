@@ -13,11 +13,11 @@
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/1629/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/문자열%2C누적합%2C구현/1629/jjh.cpp)
 
 ### 모범 답안
 
-- [Modular Arithmetic & Recursion](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/1629/solution_1.cpp)
+- [Modular Arithmetic & Recursion](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/문자열%2C누적합%2C구현/1629/solution_1.cpp)
 
 ***
 

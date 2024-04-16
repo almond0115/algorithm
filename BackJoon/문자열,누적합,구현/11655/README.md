@@ -17,11 +17,11 @@ ROT13은 알파벳 대문자와 소문자에만 적용할 수 있다. 알파벳�
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/11655/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/문자열%2C누적합%2C구현/11655/jjh.cpp)
 
 ### 모범 답안
 
-- [getline() Input](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/11655/solution_1.cpp)
+- [getline() Input](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/문자열%2C누적합%2C구현/11655/solution_1.cpp)
 
 ***
 

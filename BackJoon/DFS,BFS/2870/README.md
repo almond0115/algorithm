@@ -40,11 +40,11 @@
 
 ### 풀이 코드
 
--   [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2870/jjh.cpp)
+-   [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/2870/jjh.cpp)
 
 ### 모범 답안
 
--   [String Number Translation](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2870/solution_1.cpp)
+-   [String Number Translation](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/2870/solution_1.cpp)
 
 ---
 

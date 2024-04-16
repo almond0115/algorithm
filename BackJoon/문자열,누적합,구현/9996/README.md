@@ -29,11 +29,11 @@
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/9996/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/문자열%2C누적합%2C구현/9996/jjh.cpp)
 
 ### 모범 답안
 
-- [Exception 처리](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/9996/solution_1.cpp)
+- [Exception 처리](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/문자열%2C누적합%2C구현/9996/solution_1.cpp)
 
 ***
 

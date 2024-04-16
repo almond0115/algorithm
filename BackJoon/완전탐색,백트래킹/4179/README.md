@@ -37,11 +37,11 @@ J는 입력에서 하나만 주어진다.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/4179/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/완전탐색%2C백트래킹/4179/jjh.cpp)
 
 ### 모범 답안
 
-- [BFS](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/4179/solution_1.cpp)
+- [BFS](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/완전탐색%2C백트래킹/4179/solution_1.cpp)
 
 ***
 

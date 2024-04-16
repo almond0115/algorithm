@@ -23,11 +23,11 @@
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/12851/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/완전탐색%2C백트래킹/12851/jjh.cpp)
 
 ### 모범 답안
 
-- [1D-BFS](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/12851/solution_1.cpp)
+- [1D-BFS](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/완전탐색%2C백트래킹/12851/solution_1.cpp)
 
 ***
 

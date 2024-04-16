@@ -23,11 +23,11 @@ A = [9, 5, 4, 8]인 경우에는 NGE(1) = -1, NGE(2) = 8, NGE(3) = 8, NGE(4) = -
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/17298/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/17298/jjh.cpp)
 
 ### 모범 답안
 
-- [Stack](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/17298/solution_1.cpp)
+- [Stack](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/17298/solution_1.cpp)
 
 ***
 

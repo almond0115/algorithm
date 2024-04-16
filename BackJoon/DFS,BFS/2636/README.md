@@ -52,11 +52,11 @@
 
 ### 풀이 코드
 
--   [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2636/jjh.cpp)
+-   [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/2636/jjh.cpp)
 
 ### 모범 답안
 
--   [DFS](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2636/solution_1.cpp)
+-   [DFS](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/2636/solution_1.cpp)
 
 ---
 

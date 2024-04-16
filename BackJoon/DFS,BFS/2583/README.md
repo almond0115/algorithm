@@ -36,11 +36,11 @@ M, N, K는 모두 100 이하의 자연수이다.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2583/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/2583/jjh.cpp)
 
 ### 모범 답안
 
-- [Connected Component & DFS](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2583/solution_1.cpp)
+- [Connected Component & DFS](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/2583/solution_1.cpp)
 
 ***
 

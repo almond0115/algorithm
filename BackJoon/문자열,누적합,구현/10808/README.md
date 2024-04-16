@@ -11,11 +11,11 @@
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/10808/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/문자열%2C누적합%2C구현/10808/jjh.cpp)
 
 ### 모범 답안
 
-- [ASCII Code](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/10808/solution_1.cpp)
+- [ASCII Code](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/문자열%2C누적합%2C구현/10808/solution_1.cpp)
 
 ***
 

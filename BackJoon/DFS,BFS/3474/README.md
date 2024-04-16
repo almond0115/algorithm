@@ -27,11 +27,11 @@
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/3474/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/3474/jjh.cpp)
 
 ### 모범 답안
 
-- [Data Type Range Check & For Loop Condition](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/3474/solution_1.cpp)
+- [Data Type Range Check & For Loop Condition](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/3474/solution_1.cpp)
 
 ***
 

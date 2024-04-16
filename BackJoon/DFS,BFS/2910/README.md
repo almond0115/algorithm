@@ -27,11 +27,11 @@
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2910/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/2910/jjh.cpp)
 
 ### 모범 답안
 
-- [Map (Key, Value) & Vector Translation](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2910/solution_1.cpp)
+- [Map (Key, Value) & Vector Translation](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/2910/solution_1.cpp)
 
 ***
 

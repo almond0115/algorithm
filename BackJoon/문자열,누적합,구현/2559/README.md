@@ -44,11 +44,11 @@ K는 1과 N 사이의 정수이다.
 
 ### 풀이 코드
 
-* [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2559/jjh.cpp)
+* [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/문자열%2C누적합%2C구현/2559/jjh.cpp)
 
 ### 모범 답안
 
-* [Prefix Sum](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2559/solution_1.cpp)
+* [Prefix Sum](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/문자열%2C누적합%2C구현/2559/solution_1.cpp)
 
 ---
 

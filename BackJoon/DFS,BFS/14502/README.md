@@ -65,11 +65,11 @@
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/14502/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/14502/jjh.cpp)
 
 ### 모범 답안
 
-- [DFS & Combination](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/14502/solution_1.cpp)
+- [DFS & Combination](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/14502/solution_1.cpp)
 
 ***
 

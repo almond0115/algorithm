@@ -31,11 +31,11 @@
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/16637/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/완전탐색%2C백트래킹/16637/jjh.cpp)
 
 ### 모범 답안
 
-- [Recursive Function & Prefix Sum](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/16637/solution_1.cpp)
+- [Recursive Function & Prefix Sum](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/완전탐색%2C백트래킹/16637/solution_1.cpp)
 
 - [DFS](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/16637/solution_2.cpp)
 

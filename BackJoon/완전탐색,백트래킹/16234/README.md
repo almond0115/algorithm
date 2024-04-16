@@ -60,11 +60,11 @@ L = 20, R = 50 이기 때문에, 모든 나라 사이의 국경선이 열린다.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/16234/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/완전탐색%2C백트래킹/16234/jjh.cpp)
 
 ### 모범 답안
 
-- [DFS & Flag Return](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/16234/solution_1.cpp)
+- [DFS & Flag Return](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/완전탐색%2C백트래킹/16234/solution_1.cpp)
 
 ***
 

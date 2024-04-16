@@ -17,11 +17,11 @@
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/1159/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/문자열%2C누적합%2C구현/1159/jjh.cpp)
 
 ### 모범 답안
 
-- [String Translation](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/1159/solution_1.cpp)
+- [String Translation](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/문자열%2C누적합%2C구현/1159/solution_1.cpp)
 
 ***
 

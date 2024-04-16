@@ -21,11 +21,11 @@
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/1620/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/문자열%2C누적합%2C구현/1620/jjh.cpp)
 
 ### 모범 답안
 
-- [String to Int](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/1620/solution_1.cpp)
+- [String to Int](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/문자열%2C누적합%2C구현/1620/solution_1.cpp)
 
 ***
 

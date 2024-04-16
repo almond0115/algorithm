@@ -26,11 +26,11 @@ SCV의 체력이 0 또는 그 이하가 되어버리면, SCV는 그 즉시 파�
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/12869/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/완전탐색%2C백트래킹/12869/jjh.cpp)
 
 ### 모범 답안
 
-- [BFS](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/12869/solution_1.cpp)
+- [BFS](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/완전탐색%2C백트래킹/12869/solution_1.cpp)
 
 ***
 

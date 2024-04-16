@@ -31,11 +31,11 @@
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/1436/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/1436/jjh.cpp)
 
 ### 모범 답안
 
-- [Brute Force & Int to String Number, find()](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/1436/solution_1.cpp)
+- [Brute Force & Int to String Number, find()](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/1436/solution_1.cpp)
 
 ***
 

@@ -31,11 +31,11 @@ N 은 언제나 2의 제곱수로 주어지며, 1 ≤ N ≤ 64의 범위를 가�
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/1992/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/1992/jjh.cpp)
 
 ### 모범 답안
 
-- [Divide & Conquer](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/1992/solution_1.cpp)
+- [Divide & Conquer](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/DFS%2CBFS/1992/solution_1.cpp)
 
 ***
 

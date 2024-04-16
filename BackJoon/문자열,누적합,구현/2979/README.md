@@ -21,11 +21,11 @@ A, B, C가 주어지고, 상근이의 트럭이 주차장에 주차된 시간이
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2979/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/문자열%2C누적합%2C구현/2979/jjh.cpp)
 
 ### 모범 답안
 
-- [Counting Array](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/2979/solution_1.cpp)
+- [Counting Array](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/문자열%2C누적합%2C구현/2979/solution_1.cpp)
 
 ***
 

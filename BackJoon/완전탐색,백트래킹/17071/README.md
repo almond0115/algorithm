@@ -33,11 +33,11 @@
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/17071/jjh.cpp)
+- [@JongHyunJung](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/완전탐색%2C백트래킹/17071/jjh.cpp)
 
 ### 모범 답안
 
-- [2D-BFS & Flood Fill](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/17071/solution_1.cpp)
+- [2D-BFS & Flood Fill](https://github.com/almond0115/Algorithm-CodingTest/blob/main/BackJoon/완전탐색%2C백트래킹/17071/solution_1.cpp)
 
 ***
 
