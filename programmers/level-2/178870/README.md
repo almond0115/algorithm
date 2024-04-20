@@ -36,4 +36,4 @@ solution 함수를 완성해주세요. 이때 수열의 인덱스는 0부터 시
 
 ### TIL
 
-* [내적, 전력망을 둘로 나누기, 미로 탈출 명령어](https://almond0115.tistory.com/entry/programmers-내적-전력망을-둘로-나누기-미로-탈출-명령어)
+* [약수의 합, 연속된 부분 수열의 합, 퍼즐 조각 채우기](https://almond0115.tistory.com/entry/programmers-약수의-합-연속된-부분-수열의-합-퍼즐-조각-채우기)
