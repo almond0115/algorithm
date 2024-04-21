@@ -22,7 +22,7 @@ strings의 원소는 길이 1 이상, 100이하인 문자열입니다.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/12915/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-1/12915/jjh.py)
 
 ***
 

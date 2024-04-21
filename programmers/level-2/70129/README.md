@@ -27,7 +27,7 @@ s에는 '1'이 최소 하나 이상 포함되어 있습니다.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/70129/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-2/70129/jjh.py)
 
 ### TIL
 

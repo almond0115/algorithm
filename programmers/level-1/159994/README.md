@@ -49,7 +49,7 @@ cards1, cards2, goal의 문자열들은 모두 알파벳 소문자로만 이루�
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/159994/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-1/159994/jjh.py)
 
 ### TIL
 

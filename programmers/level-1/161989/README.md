@@ -54,7 +54,7 @@ section의 원소는 오름차순으로 정렬되어 있습니다.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/161989/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-1/161989/jjh.py)
 
 ### TIL
 

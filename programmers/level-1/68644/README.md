@@ -14,7 +14,7 @@ arr의 원소는 -10,000 이상 10,000 이하인 정수입니다.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/68644/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-1/68644/jjh.py)
 
 ### TIL
 

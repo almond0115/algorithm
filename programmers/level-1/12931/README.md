@@ -12,7 +12,7 @@ N의 범위 : 100,000,000 이하의 자연수
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/12931/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-1/12931/jjh.py)
 
 ### TIL
 

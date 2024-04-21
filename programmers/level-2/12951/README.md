@@ -27,7 +27,7 @@ s는 알파벳과 숫자, 공백문자(" ")로 이루어져 있습니다.  
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/12951/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-2/12951/jjh.py)
 
 ### TIL
 

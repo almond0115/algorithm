@@ -27,7 +27,7 @@ n개의 음이 아닌 정수들이 있습니다.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/68644/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-2/68644/jjh.py)
 
 ### TIL
 

@@ -65,7 +65,7 @@ win_nums의 원소들은 정렬되어 있지 않을 수도 있습니다.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/77484/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-1/77484/jjh.py)
 
 ### TIL
 

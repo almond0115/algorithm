@@ -26,7 +26,7 @@ s의 길이는 1 이상 1,000 이하입니다.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/76502/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-2/76502/jjh.py)
 
 ### TIL
 

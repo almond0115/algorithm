@@ -55,7 +55,7 @@ targets의 원소는 알파벳 대문자로만 이루어져 있습니다.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/160586/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-1/160586/jjh.py)
 
 ### TIL
 

@@ -10,7 +10,7 @@ n은 0 이상 3000이하인 정수입니다.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/12928/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-1/12928/jjh.py)
 
 ### TIL
 

@@ -30,7 +30,7 @@ wires의 각 원소는 [v1, v2] 2개의 자연수로 이루어져 있으며,
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/86971/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-2/86971/jjh.py)
 
 ### TIL
 

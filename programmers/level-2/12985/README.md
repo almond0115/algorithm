@@ -38,7 +38,7 @@ A, B : N 이하인 자연수 (단, A ≠ B 입니다.)
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/12985/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-2/12985/jjh.py)
 
 ### TIL
 

@@ -20,7 +20,7 @@ return 하도록 solution 함수를 완성해주세요.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/154539/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-2/154539/jjh.py)
 
 ### TIL
 

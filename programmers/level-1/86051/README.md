@@ -18,7 +18,7 @@ numbers의 모든 원소는 서로 다릅니다.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/86051/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-1/86051/jjh.py)
 
 ### TIL
 

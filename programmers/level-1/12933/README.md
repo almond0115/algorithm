@@ -14,7 +14,7 @@ n은 1이상 8000000000 이하인 자연수입니다.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/12933/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-1/12933/jjh.py)
 
 ### TIL
 

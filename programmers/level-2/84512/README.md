@@ -20,7 +20,7 @@ word는 알파벳 대문자 'A', 'E', 'I', 'O', 'U'로만 이루어져 있습니
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/84512/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-2/84512/jjh.py)
 
 ### TIL
 

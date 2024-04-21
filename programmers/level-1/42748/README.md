@@ -31,7 +31,7 @@ commands의 각 원소는 길이가 3입니다.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/42748/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-1/42748/jjh.py)
 
 ### TIL
 

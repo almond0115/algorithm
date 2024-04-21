@@ -12,11 +12,11 @@
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/12949/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-2/12949/jjh.py)
 
 ### 모범 답안
 
-- [2-D List initialization](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/12949/solution_1.py)
+- [2-D List initialization](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-2/12949/solution_1.py)
 
 ### TIL
 

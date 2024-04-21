@@ -18,7 +18,7 @@ k는 1 이상 number의 자릿수 미만인 자연수입니다.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/42883/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-2/42883/jjh.py)
 
 ### TIL
 

@@ -16,7 +16,7 @@ a, b의 모든 수는 -1,000 이상 1,000 이하입니다.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/70128/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-1/70128/jjh.py)
 
 ### TIL
 

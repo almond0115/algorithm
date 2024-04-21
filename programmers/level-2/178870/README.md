@@ -32,7 +32,7 @@ solution 함수를 완성해주세요. 이때 수열의 인덱스는 0부터 시
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/178870/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-2/178870/jjh.py)
 
 ### TIL
 

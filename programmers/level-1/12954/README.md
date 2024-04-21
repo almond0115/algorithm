@@ -16,7 +16,7 @@ n은 1000 이하인 자연수입니다.
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/Programmers/12954/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-1/12954/jjh.py)
 
 ### TIL
 
