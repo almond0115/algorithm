@@ -1,4 +1,6 @@
-def solution(X, Y):
+from collections import Counter
+
+def solution_1(X, Y):
     answer = []
     y_list = []
     tmp = 0
@@ -31,4 +33,25 @@ def solution(X, Y):
     
     answer = sorted(answer, reverse=True)
     answer = ''.join(answer)
+    return answer
+
+def solution_2(X, Y):
+    answer = ''
+    # Counter 함수를 통해 문자열 안에 포함된 원소의 개수 구하기
+    # & 연산자로 교집합 구하기
+    pair_num = Counter(X) & Counter(Y)
+
+    # 예외 처리
+    if not pair_num:                # pair_num 에 공통 값이 없는 경우
+        return '-1'
+    elif list(pair_num) == ['0']:   # 공통 값이 0만 있는 경우
+        return '0'
+    
+    # 역순으로 정렬
+    reverse_num = sorted(pair_num, reverse=True)
+
+    # 문자열 곱을 활용한 정답 도출
+    for num in reverse_num:
+        answer += num * pair_num[num]
+    
     return answer
