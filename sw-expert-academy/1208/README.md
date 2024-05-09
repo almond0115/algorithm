@@ -1,4 +1,4 @@
-## [[12901] 2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)
+## [[12901] Flatten](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh)
 
 한 쪽 벽면에 다음과 같이 노란색 상자들이 쌓여 있다.
 
@@ -48,8 +48,8 @@ A’부분의 상자를 옮겨서, C부분에 덤프하였다. 이때 C 대신 C
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-1/12901/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/sw-expert-academy/1208/jjh.py)
 
 ### TIL
 
-* [2016년, 뒤에 있는 큰 수 찾기, 공 이동 시뮬레이션](https://almond0115.tistory.com/entry/programmers-2016년-뒤에-있는-큰-수-찾기-공-이동-시뮬레이션)
+* [View, Flatten, Sum](https://almond0115.tistory.com/entry/SWEA-View-Flatten-Sum)
