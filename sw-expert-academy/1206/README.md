@@ -38,8 +38,8 @@ C의 경우는 반대로 오른쪽 조망은 2칸이 확보가 되었지만 왼�
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/programmers/level-1/12901/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/sw-expert-academy/1206/jjh.py)
 
 ### TIL
 
-* [2016년, 뒤에 있는 큰 수 찾기, 공 이동 시뮬레이션](https://almond0115.tistory.com/entry/programmers-2016년-뒤에-있는-큰-수-찾기-공-이동-시뮬레이션)
+* [View, Flatten, Sum](https://almond0115.tistory.com/entry/SWEA-View-Flatten-Sum)
