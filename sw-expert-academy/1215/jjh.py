@@ -14,8 +14,10 @@ for i in range(8):
 # 세로 탐색
 for i in range(8):
     for j in range(8 - word_length + 1):
-        if [word_map[k][i] for k in range(j, j + word_length)] == [word_map[k][i] for k in range(j, j + word_length)][:: -1]:
-            count += 1
+        print(word_map[j:j + word_length][i])
+        # if word_map[j:j + word_length][i] == word_map[j:j + word_length][i][:: - 1]:
+        # if [word_map[k][i] for k in range(j, j + word_length)] == [word_map[k][i] for k in range(j, j + word_length)][:: -1]:
+            # count += 1
 
 print(count)
 
