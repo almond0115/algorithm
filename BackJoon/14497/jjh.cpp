@@ -19,7 +19,7 @@ int main(){
     }
 
     // visited에 점프 횟수를 저장
-    visited[a-1][b-1] = 1;
+    visited[a-1][b-1] = 0;
     queue<pair<int, int>> q;
     q.push({a-1, b-1});
     while(q.size()){
@@ -30,16 +30,18 @@ int main(){
             for(int j=0 ; j<4 ; j++){
                 ny = y + dy[j];
                 nx = x + dx[j];
-                if(ny < 0 || nx < 0 || ny >= n || nx >= m ||visited[ny][nx]) continue;
+                if(ny < 0 || nx < 0 || ny >= n || nx >= m) continue;
+                if(visited[ny][nx] || _map[ny][nx] == '0') continue;
                 visited[ny][nx] = visited[y][x] + 1;
                 if(_map[ny][nx] == '#'){
-                    cout << visited[ny][nx] - 1 << '\n';
+                    cout << visited[ny][nx] << '\n';
                     return 0;
                 }
-                if(_map[ny][nx] == '1' || _map[ny][nx] == '0') {   // 파동 도착 지점이 '1'인 경우
-                    _map[ny][nx] = '0';
-                    q.push({ny, nx});
-                }
+                // if(_map[ny][nx] == '1' || _map[ny][nx] == '0') {
+                //     _map[ny][nx] = '0';
+                //     q.push({ny, nx});
+                // }
+                q.push({ny, nx});
             }
         }
     }
