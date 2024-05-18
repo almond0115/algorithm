@@ -9,10 +9,12 @@ while True:
     if cmd_num == 0:
         print(*crypto_list[:10])
         break
+
     # 명령어 리스트에서 명령어 개별 추출
     while True:
         if len(cmd_list) == 0:
             break
+        
         idx = 0
         if cmd_list[idx] == 'I':
             insert_pos = int(cmd_list[idx+1])
