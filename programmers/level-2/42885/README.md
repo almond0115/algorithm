@@ -32,4 +32,4 @@
 
 ### TIL
 
-* [](https://almond0115.tistory.com/entry/)
+* [구명보트, 단속 카메라](https://almond0115.tistory.com/entry/programmers-구명보트-단속-카메라)
