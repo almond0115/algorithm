@@ -26,7 +26,7 @@ Adds a positive integer num back into the infinite set, if it is not already in 
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/leetcode/easy/2336/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/leetcode/medium/2336/jjh.py)
 
 ### TIL
 

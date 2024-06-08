@@ -36,7 +36,7 @@ Output: [[0,4],[0,3,4],[0,1,3,4],[0,1,2,3,4],[0,1,4]] <br>
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/leetcode/easy/797/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/leetcode/medium/797/jjh.py)
 
 ### TIL
 

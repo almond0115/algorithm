@@ -25,7 +25,7 @@ Output: [[0,0,0,null,null,0,0,null,null,0,0],[0,0,0,null,null,0,0,0,0],[0,0,0,0,
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/leetcode/easy/894/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/leetcode/medium/894/jjh.py)
 
 ### TIL
 

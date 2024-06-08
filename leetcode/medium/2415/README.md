@@ -48,7 +48,7 @@ The nodes at level 3 were 1, 1, 1, 1, 2, 2, 2, 2, and are 2, 2, 2, 2, 1, 1, 1, 1
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/leetcode/easy/2415/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/leetcode/medium/2415/jjh.py)
 
 ### TIL
 
