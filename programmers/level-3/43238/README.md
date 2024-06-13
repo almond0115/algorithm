@@ -34,4 +34,4 @@ n명이 입국심사를 위해 줄을 서서 기다리고 있습니다.
 
 ### TIL
 
-* [](https://almond0115.tistory.com/entry/)
+* [입국 심사, 징검다리](https://almond0115.tistory.com/entry/programmers-입국-심사-징검다리)
