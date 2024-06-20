@@ -6,7 +6,6 @@ class Solution:
         for alph in s:
             s_cnt[alph] += 1
 
-        max_cnt = - float('inf')
         result = ""
 
         # 내림차순 정렬

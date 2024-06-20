@@ -32,15 +32,15 @@ Note that 'A' and 'a' are treated as two different characters.
 
 ## 제한 사항
 
-1. 1 <= s.length <= 5 * 105
+1. 1 <= s.length <= 5 * 10^5
 2. s consists of uppercase and lowercase English letters and digits.
 
 ***
 
 ### 풀이 코드
 
-- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/leetcode/medium/1043/jjh.py)
+- [@JongHyunJung](https://github.com/viaunixue/algorithm-study/blob/main/leetcode/medium/451/jjh.py)
 
 ### TIL
 
-* [1043 Partition Array for Maximum Sum](https://almond0115.tistory.com/entry/LeetCode-1043-Partition-Array-for-Maximum-Sum)
+* [451 Partition Array for Maximum Sum](https://almond0115.tistory.com/entry/LeetCode-451-Sort-Characters-By-Frequency)

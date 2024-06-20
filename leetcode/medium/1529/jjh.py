@@ -29,7 +29,7 @@ class Solution:
         for ch in target:
             if status != ch:
                 cnt += 1
-                status = '0' if stat == '1' else '1'
+                status = '0' if status == '1' else '1'
 
         return cnt
     
